@@ -1,0 +1,25 @@
+body{
+    background-color: antiquewhite;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.best{
+    font-style:italic;
+}
+.header{
+    border: 2px solid salmon;
+    text-align: center;
+}
+.list{
+    font-style:italic;
+    color:salmon;
+}
+.toplink{
+    top:0;
+    right:0;
+    z-index: 1;
+}
+.common{
+    border: 2px solid salmon;
+    position: absolute;
+}

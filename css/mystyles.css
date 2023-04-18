@@ -1,0 +1,24 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:antiquewhite;
+    color:black; /*font color*/
+    
+}
+
+    /*text-align: center should make it centered*/
+
+
+/* if updates don't work...
+1. Make sure you linked styles to page
+2. Make syre you linked them correctly and below original styles
+3. Make sure you spelled everything vorrectly, including caps
+3b. Try !important (before semicolon)
+4. Try refreshing page
+5. Try refreshing without cache
+6. Try a different browser
+7. Come to class and ask a TA
+8. Be satisfied with less style */
